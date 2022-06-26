@@ -1,4 +1,4 @@
-const foo = (num) => {
-    console.log(num)
+const bar = (num, id) => {
+    console.log(num, id)
     return num * 2
 }
